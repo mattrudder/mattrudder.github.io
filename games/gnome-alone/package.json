@@ -1,0 +1,8 @@
+﻿{
+	"title": "Gnome Alone",
+	"bannerPath": "~/images/gnomealone.png",
+	"gamePath": "~/games/gnome-alone/index.html",
+	"description": "Top-down shooter developed in 72 hours for the 23rd Ludum Dare game jam, developed using ActionScript 3 and FlashPunk.",
+	"width": 800,
+	"height": 600
+}

@@ -1,0 +1,9 @@
+﻿{
+	"title": "Scrap!",
+	"bannerPath": "~/games/scrap/Scrap.png",
+	"gamePath": "~/games/scrap/Scrap.html",
+	"description": "Puzzle game for iOS, built with Unity.",
+	"width": 320,
+	"height": 480,
+	"disabled": true
+}
