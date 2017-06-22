@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/rudder
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mattrudder.com
+  * I am rudder (https://keybase.io/rudder) on keybase.
+  * I have a public key ASDuGAPk7C7-Lbk4QgFlv8AS8nchz4nJ3vVbldcTWw4cUQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ee1803e4ec2efe2db938420165bfc012f27721cf89c9def55b95d7135b0e1c510a",
+            "host": "keybase.io",
+            "kid": "0120ee1803e4ec2efe2db938420165bfc012f27721cf89c9def55b95d7135b0e1c510a",
+            "uid": "37d80f43f43cd48f2e363a2d1f2aee19",
+            "username": "rudder"
+        },
+        "merkle_root": {
+            "ctime": 1498157287,
+            "hash": "e6c63f4fc888fc36c12b8f4029a39b4ac27351581fd124389905be469481dffc7e79fb35bd59ec091018a8c08231dde0a31a3e4732496bbfc5fe6a1c81ed967b",
+            "hash_meta": "06231767c3d65267f83bf2a0afaa298acf16dccd3c096314fd1e82f899e3d965",
+            "seqno": 1187814
+        },
+        "service": {
+            "hostname": "mattrudder.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498157375,
+    "expire_in": 504576000,
+    "prev": "fbe5c2a81cd3c68aec94d02d31b410d0dd9c1422aa766f2917eeade185353bd4",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7hgD5Owu/i25OEIBZb/AEvJ3Ic+Jyd71W5XXE1sOHFEKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZWUxODAzZTRlYzJlZmUyZGI5Mzg0MjAxNjViZmMwMTJmMjc3MjFjZjg5YzlkZWY1NWI5NWQ3MTM1YjBlMWM1MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWUxODAzZTRlYzJlZmUyZGI5Mzg0MjAxNjViZmMwMTJmMjc3MjFjZjg5YzlkZWY1NWI5NWQ3MTM1YjBlMWM1MTBhIiwidWlkIjoiMzdkODBmNDNmNDNjZDQ4ZjJlMzYzYTJkMWYyYWVlMTkiLCJ1c2VybmFtZSI6InJ1ZGRlciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5ODE1NzI4NywiaGFzaCI6ImU2YzYzZjRmYzg4OGZjMzZjMTJiOGY0MDI5YTM5YjRhYzI3MzUxNTgxZmQxMjQzODk5MDViZTQ2OTQ4MWRmZmM3ZTc5ZmIzNWJkNTllYzA5MTAxOGE4YzA4MjMxZGRlMGEzMWEzZTQ3MzI0OTZiYmZjNWZlNmExYzgxZWQ5NjdiIiwiaGFzaF9tZXRhIjoiMDYyMzE3NjdjM2Q2NTI2N2Y4M2JmMmEwYWZhYTI5OGFjZjE2ZGNjZDNjMDk2MzE0ZmQxZTgyZjg5OWUzZDk2NSIsInNlcW5vIjoxMTg3ODE0fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1hdHRydWRkZXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5ODE1NzM3NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmYmU1YzJhODFjZDNjNjhhZWM5NGQwMmQzMWI0MTBkMGRkOWMxNDIyYWE3NjZmMjkxN2VlYWRlMTg1MzUzYmQ0Iiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAEdvU+nkhYXTSK0NqljHzAvftAAYFiM7lrY7fPWCgIrQCeRjNXBpXDBLtBdlNI1WrvukXvK40qMGTkSp15t+bB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEvlHdd2WUUaJ0QE5QMIoXXXXWVwPMDRJZqjxndkXTcyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rudder
+
+==================================================================
